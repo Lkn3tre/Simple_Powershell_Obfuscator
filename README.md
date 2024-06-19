@@ -2,7 +2,7 @@
 
 *tool for powershell script obfuscation*
 
-# Preview
+# .Preview
 
 *Reverse shell script written in C#.*
 > The script is provided for educational purposes only and should not be used for malicious activities.
